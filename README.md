@@ -1,4 +1,8 @@
 # Google Trends Data Analysis Dashboard (Power BI)
+<img width="1350" alt="Dashboard front " src="https://github.com/user-attachments/assets/f5754cbc-b17c-433e-8683-6415010fd20a" />
+<img width="1285" alt="Rising technology" src="https://github.com/user-attachments/assets/244184cf-0dc6-4601-828f-25c01da3c64a" />
+<img width="1293" alt="Rising keywords" src="https://github.com/user-attachments/assets/9870ae10-10cd-48ee-917f-12b8d6a3360e" />
+<img width="1290" alt="navigation" src="https://github.com/user-attachments/assets/32182440-183a-4e4e-8f64-9d5994be7af1" />
 
 ## Overview
 The **Google Trends Data Analysis Dashboard** is a Power BI-based tool that allows users to analyze, visualize, and extract insights from Google Trends data. This project enables data analysts, marketers, and researchers to track search trends over time, compare multiple keywords, and generate interactive reports.
